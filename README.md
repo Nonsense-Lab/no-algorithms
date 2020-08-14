@@ -1,5 +1,7 @@
 > 不想看洋文？来 [算法是啥？](https://github.com/Nonsense-Lab/no-algorithms/blob/master/README_zh.md)
+
 > 不期望看到外国的语言？访问 [无算法 (机翻版)](https://github.com/Nonsense-Lab/no-algorithms/blob/master/README_zh_MachineTranslate.md)
+
 > Don't want to read proper English? Come [No-Algorithms (Machine Translated)](https://github.com/Nonsense-Lab/no-algorithms/blob/master/README_en_MachineTranslate.md)
 
 # no-algorithms
