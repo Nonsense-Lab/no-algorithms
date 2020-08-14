@@ -1,5 +1,5 @@
 # no-algorithms
-no-algorithm is a header written in C by Nonsense-Lab for the 0 and 1's sake. Hope to make our programmers work simpler.
+no-algorithm is a header written in C by Nonsense-Lab for the 0 and 1's sake. Hope to make us, the programmers work simpler.
 
 ## How to use it?
 If you are just a starter, we sincerely hope you look up the source code yourself to learn the useful algorithms.
