@@ -15,14 +15,14 @@ If you are a seasoned programmer, just `git clone` it and include it to your C /
 *(We know you will look up for the usage and the macros' name, right?)*
 
 ### To the lazy programmers.
-Usually, our headers use a macro named Init<FunctionName>(type). e.g.
+Usually, our headers use a macro named Init\<FunctionName\>(type). e.g.
 ```
 #define InitZeroOneSolve(type1)
 ```
 
 It actually CREATES:
 - **a typedef** that defines a function pointer, which will be used as the calculating function.
-- And a Function named <FunctionName>.
+- And a Function named \<FunctionName\>.
 
 The example code is shown below.
 
